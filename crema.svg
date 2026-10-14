@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Crema de aloe">
+    <rect width="220" height="190" rx="18" fill="#e5edcf"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <rect x="76" y="55" width="78" height="103" rx="13" fill="#f8f7ed" stroke="#cbd8bf" stroke-width="3"/><rect x="87" y="35" width="56" height="23" rx="5" fill="#7e9f67"/><rect x="86" y="91" width="58" height="39" rx="7" fill="#dce9c7"/><path d="M115 120 C95 102 102 88 115 97 C128 84 138 104 115 120Z" fill="#4d8a4f"/>
+    </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Planta en maceta">
+    <rect width="220" height="190" rx="18" fill="#e5edcf"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M120 112 C84 89 77 52 89 32 C119 39 137 69 120 112Z" fill="#4f8b51"/><path d="M121 112 C118 72 147 43 174 47 C177 80 153 106 121 112Z" fill="#77a95b"/><path d="M120 111 C82 110 55 91 52 68 C82 62 109 82 120 111Z" fill="#2e7046"/><path d="M90 116 L151 116 L141 169 L100 169 Z" fill="#b96e4a"/><path d="M84 113 L157 113 L153 127 L88 127 Z" fill="#d28a60"/>
+    </svg>

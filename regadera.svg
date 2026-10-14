@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Regadera">
+    <rect width="220" height="190" rx="18" fill="#e0ecd0"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M54 80 Q54 62 75 62 L131 62 Q151 62 151 82 L151 137 Q151 150 137 150 L68 150 Q54 150 54 137 Z" fill="#6c9c74"/><path d="M75 65 Q75 26 113 31 Q143 34 143 66" fill="none" stroke="#3c6b4a" stroke-width="10"/><path d="M150 86 L183 65 L192 76 L154 107" fill="#6c9c74"/><circle cx="193" cy="55" r="4" fill="#6796bd"/><circle cx="207" cy="67" r="4" fill="#6796bd"/><circle cx="202" cy="83" r="4" fill="#6796bd"/>
+    </svg>

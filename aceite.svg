@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Aceite corporal">
+    <rect width="220" height="190" rx="18" fill="#f2eedb"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <rect x="85" y="57" width="68" height="103" rx="14" fill="#d7b86d"/><rect x="99" y="36" width="40" height="26" rx="5" fill="#526c4b"/><rect x="94" y="93" width="50" height="36" rx="6" fill="#f5ebc7"/><path d="M119 120 C101 103 108 91 119 99 C132 87 140 106 119 120Z" fill="#5b965e"/>
+    </svg>

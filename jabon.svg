@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Jabón natural">
+    <rect width="220" height="190" rx="18" fill="#e8efd9"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <rect x="54" y="60" width="110" height="88" rx="22" fill="#d9cda6"/><path d="M68 81 Q109 61 151 82" fill="none" stroke="#f6efda" stroke-width="7"/><path d="M103 120 C82 103 91 89 103 95 C113 81 131 99 103 120Z" fill="#5b965e"/>
+    </svg>

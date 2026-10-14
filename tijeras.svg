@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Tijeras de podar">
+    <rect width="220" height="190" rx="18" fill="#e9efd9"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <circle cx="68" cy="132" r="24" fill="none" stroke="#4c8057" stroke-width="13"/><circle cx="112" cy="132" r="24" fill="none" stroke="#4c8057" stroke-width="13"/><path d="M68 111 L151 34 Q164 23 173 33 Q181 43 169 54 L88 126 M111 111 L51 39 Q41 27 31 37 Q22 47 33 58 L91 128" fill="none" stroke="#c65f43" stroke-width="11" stroke-linecap="round"/>
+    </svg>

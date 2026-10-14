@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Maceta">
+    <rect width="220" height="190" rx="18" fill="#e9efdd"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M66 71 L158 71 L145 153 Q142 164 129 164 L95 164 Q82 164 79 153 Z" fill="#bd7857"/><path d="M57 59 L167 59 L167 79 L57 79 Z" fill="#d28f69"/><path d="M112 58 C91 38 97 18 112 15 C131 19 133 42 112 58Z" fill="#58925a"/><path d="M112 58 C128 35 151 38 157 49 C145 64 127 65 112 58Z" fill="#77a95b"/>
+    </svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Abono orgánico">
+    <rect width="220" height="190" rx="18" fill="#e6edcf"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M58 69 L164 69 L153 157 Q151 166 140 166 L82 166 Q71 166 69 157 Z" fill="#a97c50"/><path d="M51 57 L171 57 L171 76 L51 76 Z" fill="#6d573d"/><path d="M87 107 Q103 85 121 104 Q139 86 151 110 Q130 136 107 128Z" fill="#66874a"/>
+    </svg>

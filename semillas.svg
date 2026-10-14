@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Semillas">
+    <rect width="220" height="190" rx="18" fill="#f1efd9"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M62 45 Q88 29 112 47 L157 82 Q171 93 158 107 L113 145 Q100 156 86 143 L43 106 Q29 93 43 78Z" fill="#c88b52"/><ellipse cx="76" cy="79" rx="10" ry="17" transform="rotate(-40 76 79)" fill="#f3d58a"/><ellipse cx="111" cy="95" rx="10" ry="17" transform="rotate(35 111 95)" fill="#f3d58a"/><ellipse cx="91" cy="119" rx="9" ry="15" transform="rotate(-20 91 119)" fill="#f3d58a"/>
+    </svg>

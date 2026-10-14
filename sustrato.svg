@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Sustrato">
+    <rect width="220" height="190" rx="18" fill="#eee9d8"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M52 71 L166 71 L154 155 Q152 165 141 165 L78 165 Q67 165 65 155 Z" fill="#9d7754"/><path d="M47 58 L171 58 L171 78 L47 78 Z" fill="#6c533d"/><circle cx="83" cy="105" r="8" fill="#d8bd8a"/><circle cx="112" cy="123" r="10" fill="#c1a16e"/><circle cx="139" cy="101" r="7" fill="#d8bd8a"/>
+    </svg>

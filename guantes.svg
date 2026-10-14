@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 190" role="img" aria-label="Guantes">
+    <rect width="220" height="190" rx="18" fill="#e8efdb"/>
+    <circle cx="180" cy="28" r="14" fill="#ffffff" opacity=".45"/>
+    <path d="M70 148 L54 94 Q50 79 61 76 Q72 74 78 93 L73 55 Q72 40 84 39 Q96 39 97 56 L100 82 L103 42 Q105 28 117 31 Q129 34 126 48 L124 83 L132 54 Q136 42 147 47 Q158 52 151 67 L144 101 L152 89 Q161 78 170 87 Q177 95 167 110 L147 148 Q136 166 111 165 L88 164Z" fill="#6e9c72"/>
+    </svg>
